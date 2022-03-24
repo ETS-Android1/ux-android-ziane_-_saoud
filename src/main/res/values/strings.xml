@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">OldKtab</string>
+    <string name="annonces">Annonces</string>
+    <string name="compte">Compte</string>
+    <string name="vendre">Vendre</string>
+    <string name="chat">Chat</string>
+    <string name="notifications">Notifications</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="start_buttom">Commencer</string>
+    <string name="inscription">Inscription</string>
+    <string name="connexion">Connexion</string>
+    <string name="mot_de_passe_oublie">Mot de passe oublié ?</string>
+    <string name="se_connecter">Se connecter</string>
+    <string name="se_connecter_facebook">Se connecter avec Facebook</string>
+    <string name="rechercher_des_livres_proximit">Rechercher des livres à proximité</string>
+    <string name="s_inscrire">Inscription</string>
+    <string name="ville">Benslimane</string>
+</resources>

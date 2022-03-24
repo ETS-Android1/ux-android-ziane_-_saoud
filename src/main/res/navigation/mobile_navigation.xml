@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_annonces">
+
+    <fragment
+        android:id="@+id/navigation_annonces"
+        android:name="com.example.oldktabapp.ui.annonces.AnnoncesFragment"
+        android:label="@string/annonces"
+        tools:layout="@layout/connexion_page" />
+
+    <fragment
+        android:id="@+id/navigation_compte"
+        android:name="com.example.oldktabapp.ui.compte.CompteFragment"
+        android:label="@string/compte"
+        tools:layout="@layout/fragment_compte" />
+
+    <fragment
+        android:id="@+id/navigation_notifications"
+        android:name="com.example.oldktabapp.ui.notifications.NotificationsFragment"
+        android:label="@string/notifications"
+        tools:layout="@layout/fragment_notifications" />
+</navigation>
